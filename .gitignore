@@ -1,11 +1,8 @@
-
-*/
-!gxipy/
-
+*__pycache__*
 *.bat
 *.exe
 *.lnk
-*.
-*.BMP
 
+*.BMP
 test*
+
